@@ -23,6 +23,12 @@ DevOps Flow
 ## How to Deploy
 > [!WARNING]
 > Deploying this to your AWS account may result in charges to your AWS account.
-1. git clone
-2. npm install
-3. cdk deploy
+``` bash
+git clone
+```
+``` bash
+npm install
+```
+``` bash
+cdk deploy
+```
